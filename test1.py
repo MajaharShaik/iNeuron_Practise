@@ -11,9 +11,9 @@ db = client.test
 #print(db)
 
 d = {
-    "name":"majju",
-    "email":"majahar2424@gmail.com",
-    "surename":"shaik"
+    "name":"MAJAHAR",
+    "email":"majahar84639@gmail.com",
+    "surename":"SHAIK"
 }
 
 db1 = client["mongotest"]

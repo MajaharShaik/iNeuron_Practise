@@ -6,7 +6,7 @@ db = client.test
 
 
 # MongoDb of iNeuron
-#client = pymongo.MongoClient("mongodb+srv://ineuron:mongodb123@cluster0.goi2j.mongodb.net/?retryWrites=true&w=majority")
+#client = pymongo.MongoClient("mongodb+srv://ineuron:ineuron1@cluster0.goi2j.mongodb.net/?retryWrites=true&w=majority")
 #db = client.test
 #print(db)
 
